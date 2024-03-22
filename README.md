@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm Byron.</h1>
 <h3 align="center">A Software Developer with a passion for the Outdoors.</h3>
 
-- 🌱 I’m currently learning **Node.js alongside PHP and SQL**
+- 🌱 I’m currently learning **React, Node.js and Mongodb.**
 
-- 👨‍💻 All of my projects are available at [byronmccormick.netlify.app](byronmccormick.netlify.app)
+- 👨‍💻 All of my personal projects are available at [byronmccormick.netlify.app](byronmccormick.netlify.app)
 
 - 💬 Ask me about **React, Javascript, CSS**
 
 - 📫 How to reach me **byronjamesmccormick@gmail.com**
 
-- ⚡ Fun fact **I have worked as a guide in some of the most beautiful places in the world but I find coding my happy place.**
+- ⚡ Fun fact **I have worked as a guide in some of the most beautiful locations in the world but I find coding my happy place.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
