@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Node.js and Mongodb.**
 
-- 👨‍💻 All of my personal projects are available at [byronmccormick.vercel.app](https://byronmccormick.vercel.app/)]
+- 👨‍💻 All of my personal projects are available at [byronmccormick.vercel.app](https://byronmccormick.vercel.app/)
 
 - 💬 Ask me about **React, Javascript, CSS**
 
